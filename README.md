@@ -15,3 +15,5 @@ Related stacks:
 
 For discussion, please check out the
 https://groups.google.com/group/ros-sig-navigation mailing list.
+
+dummy
